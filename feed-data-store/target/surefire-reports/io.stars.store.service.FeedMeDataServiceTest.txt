@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: io.stars.store.service.FeedMeDataServiceTest
+-------------------------------------------------------------------------------
+Tests run: 8, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.732 s - in io.stars.store.service.FeedMeDataServiceTest

@@ -1,0 +1,11 @@
+{
+  "msgId": 2,
+  "operation": "create",
+  "type": "market",
+  "timestamp": 1000,
+  "eventId": "event_id",
+  "marketId": "market_id",
+  "name": "Full Time Result",
+  "displayed": false,
+  "suspended": true
+}

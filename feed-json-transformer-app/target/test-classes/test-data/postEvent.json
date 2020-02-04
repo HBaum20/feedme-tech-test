@@ -1,0 +1,13 @@
+{
+  "msgId": 1,
+  "operation": "create",
+  "type": "event",
+  "timestamp": 1000,
+  "eventId": "event_id",
+  "category": "Football",
+  "subCategory": "Sky Bet League One",
+  "name": "Scunthorpe vs Oxford",
+  "startTime": 2000,
+  "displayed": false,
+  "suspended": true
+}

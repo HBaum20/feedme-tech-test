@@ -1,0 +1,12 @@
+{
+  "msgId": 3,
+  "operation": "create",
+  "type": "outcome",
+  "timestamp": 1000,
+  "marketId": "market_id",
+  "outcomeId": "outcome_id",
+  "name": "Scunthorpe",
+  "price": "7/2",
+  "displayed": false,
+  "suspended": true
+}

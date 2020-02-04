@@ -1,0 +1,9 @@
+/home/hbaum/rsocket/feedmetechtest/feed-dtos/src/main/java/io/stars/dto/EventDocumentsResponse.java
+/home/hbaum/rsocket/feedmetechtest/feed-dtos/src/main/java/io/stars/dto/Header.java
+/home/hbaum/rsocket/feedmetechtest/feed-dtos/src/main/java/io/stars/dto/Event.java
+/home/hbaum/rsocket/feedmetechtest/feed-dtos/src/main/java/io/stars/dto/Market.java
+/home/hbaum/rsocket/feedmetechtest/feed-dtos/src/main/java/io/stars/dto/Outcome.java
+/home/hbaum/rsocket/feedmetechtest/feed-dtos/src/main/java/io/stars/dto/MarketDocument.java
+/home/hbaum/rsocket/feedmetechtest/feed-dtos/src/main/java/io/stars/dto/OutcomeDocument.java
+/home/hbaum/rsocket/feedmetechtest/feed-dtos/src/main/java/io/stars/dto/EventDocument.java
+/home/hbaum/rsocket/feedmetechtest/feed-dtos/src/main/java/io/stars/dto/Message.java

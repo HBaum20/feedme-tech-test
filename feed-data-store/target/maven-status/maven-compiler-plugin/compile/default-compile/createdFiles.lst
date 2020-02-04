@@ -1,0 +1,13 @@
+io/stars/store/error/ApplicationErrors.class
+io/stars/store/repository/ReactiveFeedMeMongoRepository.class
+io/stars/store/controller/FeedMeDataController.class
+io/stars/store/error/ApplicationErrors$ApplicationErrorsBuilder.class
+io/stars/store/DataStoreApplication.class
+io/stars/store/error/MalformedEventException.class
+io/stars/store/converter/EventDocumentConverter.class
+io/stars/store/error/RestResponseExceptionHandler.class
+io/stars/store/repository/ReactiveMongoRepository.class
+io/stars/store/error/ApplicationError.class
+io/stars/store/service/FeedMeDataService.class
+io/stars/store/repository/FeedMeMongoRepository.class
+io/stars/store/error/ApplicationError$ApplicationErrorBuilder.class

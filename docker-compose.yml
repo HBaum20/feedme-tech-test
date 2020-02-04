@@ -1,0 +1,29 @@
+version: '2'
+services:
+  mongo:
+    image: mongo
+    ports:
+      - "27017:27017"
+
+  data-store:
+    image: feed-data-store
+    ports:
+      - "8081:8081"
+    network_mode: host
+    depends_on:
+      - mongo
+
+  transformer:
+    image: feed-json-transformer
+    ports:
+      - "8080:8080"
+    network_mode: host
+    depends_on:
+      - provider
+      - data-store
+
+  provider:
+      image: tsgtechtest/provider:1.0.0
+      ports:
+        - "8181:8181"
+        - "8282:8282"

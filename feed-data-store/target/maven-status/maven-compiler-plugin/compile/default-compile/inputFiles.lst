@@ -1,0 +1,11 @@
+/home/hbaum/rsocket/feedmetechtest/feed-data-store/src/main/java/io/stars/store/error/MalformedEventException.java
+/home/hbaum/rsocket/feedmetechtest/feed-data-store/src/main/java/io/stars/store/repository/ReactiveFeedMeMongoRepository.java
+/home/hbaum/rsocket/feedmetechtest/feed-data-store/src/main/java/io/stars/store/service/FeedMeDataService.java
+/home/hbaum/rsocket/feedmetechtest/feed-data-store/src/main/java/io/stars/store/controller/FeedMeDataController.java
+/home/hbaum/rsocket/feedmetechtest/feed-data-store/src/main/java/io/stars/store/error/ApplicationError.java
+/home/hbaum/rsocket/feedmetechtest/feed-data-store/src/main/java/io/stars/store/DataStoreApplication.java
+/home/hbaum/rsocket/feedmetechtest/feed-data-store/src/main/java/io/stars/store/error/ApplicationErrors.java
+/home/hbaum/rsocket/feedmetechtest/feed-data-store/src/main/java/io/stars/store/repository/FeedMeMongoRepository.java
+/home/hbaum/rsocket/feedmetechtest/feed-data-store/src/main/java/io/stars/store/error/RestResponseExceptionHandler.java
+/home/hbaum/rsocket/feedmetechtest/feed-data-store/src/main/java/io/stars/store/repository/ReactiveMongoRepository.java
+/home/hbaum/rsocket/feedmetechtest/feed-data-store/src/main/java/io/stars/store/converter/EventDocumentConverter.java

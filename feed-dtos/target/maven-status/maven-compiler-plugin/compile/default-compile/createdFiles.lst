@@ -1,0 +1,17 @@
+io/stars/dto/EventDocument.class
+io/stars/dto/EventDocument$EventDocumentBuilder.class
+io/stars/dto/Event$EventBuilder.class
+io/stars/dto/OutcomeDocument$OutcomeDocumentBuilder.class
+io/stars/dto/Outcome.class
+io/stars/dto/OutcomeDocument.class
+io/stars/dto/Outcome$OutcomeBuilder.class
+io/stars/dto/Event.class
+io/stars/dto/MarketDocument$MarketDocumentBuilder.class
+io/stars/dto/EventDocumentsResponse.class
+io/stars/dto/Message.class
+io/stars/dto/Header$HeaderBuilder.class
+io/stars/dto/Market$MarketBuilder.class
+io/stars/dto/EventDocumentsResponse$EventDocumentsResponseBuilder.class
+io/stars/dto/Header.class
+io/stars/dto/Market.class
+io/stars/dto/MarketDocument.class

@@ -1,0 +1,4 @@
+io/stars/transform/tcp/FeedMeTCPClientTest.class
+io/stars/transform/service/FeedMeServiceTest.class
+io/stars/transform/service/transform/JsonObjectCreatorTest.class
+io/stars/transform/connector/DataStoreConnectorTest.class

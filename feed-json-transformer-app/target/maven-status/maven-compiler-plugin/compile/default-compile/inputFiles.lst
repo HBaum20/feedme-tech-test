@@ -1,0 +1,16 @@
+/home/hbaum/rsocket/feedmetechtest/feed-json-transformer-app/src/main/java/io/stars/transform/config/FeedMeTCPConfig.java
+/home/hbaum/rsocket/feedmetechtest/feed-json-transformer-app/src/main/java/io/stars/transform/error/MessageCreationException.java
+/home/hbaum/rsocket/feedmetechtest/feed-json-transformer-app/src/main/java/io/stars/transform/error/TCPClientInitException.java
+/home/hbaum/rsocket/feedmetechtest/feed-json-transformer-app/src/main/java/io/stars/transform/config/DataStoreConfig.java
+/home/hbaum/rsocket/feedmetechtest/feed-json-transformer-app/src/main/java/io/stars/transform/controller/FeedMeHTTPController.java
+/home/hbaum/rsocket/feedmetechtest/feed-json-transformer-app/src/main/java/io/stars/transform/service/FeedMeService.java
+/home/hbaum/rsocket/feedmetechtest/feed-json-transformer-app/src/main/java/io/stars/transform/service/transform/JsonObjectCreator.java
+/home/hbaum/rsocket/feedmetechtest/feed-json-transformer-app/src/main/java/io/stars/transform/tcp/FeedMeTCPClient.java
+/home/hbaum/rsocket/feedmetechtest/feed-json-transformer-app/src/main/java/io/stars/transform/data/MessageResponse.java
+/home/hbaum/rsocket/feedmetechtest/feed-json-transformer-app/src/main/java/io/stars/transform/JsonTransformApplication.java
+/home/hbaum/rsocket/feedmetechtest/feed-json-transformer-app/src/main/java/io/stars/transform/connector/ReactiveWebClientFactory.java
+/home/hbaum/rsocket/feedmetechtest/feed-json-transformer-app/src/main/java/io/stars/transform/tcp/factory/BufferedReaderFactory.java
+/home/hbaum/rsocket/feedmetechtest/feed-json-transformer-app/src/main/java/io/stars/transform/connector/DataStoreConnector.java
+/home/hbaum/rsocket/feedmetechtest/feed-json-transformer-app/src/main/java/io/stars/transform/error/ApiError.java
+/home/hbaum/rsocket/feedmetechtest/feed-json-transformer-app/src/main/java/io/stars/transform/error/RestResponseExceptionHandler.java
+/home/hbaum/rsocket/feedmetechtest/feed-json-transformer-app/src/main/java/io/stars/transform/tcp/factory/SocketFactory.java

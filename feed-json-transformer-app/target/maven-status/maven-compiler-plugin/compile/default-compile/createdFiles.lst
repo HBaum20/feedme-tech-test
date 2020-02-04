@@ -1,0 +1,17 @@
+io/stars/transform/controller/FeedMeHTTPController.class
+io/stars/transform/error/RestResponseExceptionHandler.class
+io/stars/transform/error/ApiError.class
+io/stars/transform/tcp/FeedMeTCPClient.class
+io/stars/transform/JsonTransformApplication.class
+io/stars/transform/connector/ReactiveWebClientFactory.class
+io/stars/transform/error/MessageCreationException.class
+io/stars/transform/tcp/factory/BufferedReaderFactory.class
+io/stars/transform/data/MessageResponse$MessageResponseBuilder.class
+io/stars/transform/connector/DataStoreConnector.class
+io/stars/transform/service/FeedMeService.class
+io/stars/transform/error/TCPClientInitException.class
+io/stars/transform/tcp/factory/SocketFactory.class
+io/stars/transform/config/FeedMeTCPConfig.class
+io/stars/transform/data/MessageResponse.class
+io/stars/transform/config/DataStoreConfig.class
+io/stars/transform/service/transform/JsonObjectCreator.class

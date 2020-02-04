@@ -1,0 +1,4 @@
+/home/hbaum/rsocket/feedmetechtest/feed-json-transformer-app/src/test/java/io/stars/transform/service/transform/JsonObjectCreatorTest.java
+/home/hbaum/rsocket/feedmetechtest/feed-json-transformer-app/src/test/java/io/stars/transform/service/FeedMeServiceTest.java
+/home/hbaum/rsocket/feedmetechtest/feed-json-transformer-app/src/test/java/io/stars/transform/connector/DataStoreConnectorTest.java
+/home/hbaum/rsocket/feedmetechtest/feed-json-transformer-app/src/test/java/io/stars/transform/tcp/FeedMeTCPClientTest.java

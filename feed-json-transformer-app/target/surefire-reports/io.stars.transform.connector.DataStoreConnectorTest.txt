@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: io.stars.transform.connector.DataStoreConnectorTest
+-------------------------------------------------------------------------------
+Tests run: 9, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 5.7 s - in io.stars.transform.connector.DataStoreConnectorTest
