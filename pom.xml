@@ -18,7 +18,7 @@
     <properties>
         <spring.boot.version>2.2.4.RELEASE</spring.boot.version>
         <lombok.version>1.18.10</lombok.version>
-        <junit.version>4.13</junit.version>
+        <junit.version>4.13.1</junit.version>
         <mockito.version>3.2.4</mockito.version>
         <reactor.version>3.3.2.RELEASE</reactor.version>
         <assertj.version>3.15.0</assertj.version>
